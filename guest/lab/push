@@ -1,0 +1,4 @@
+make clean
+make
+cp obj/kern/kernel ../../JOS/lab/fs/.
+
